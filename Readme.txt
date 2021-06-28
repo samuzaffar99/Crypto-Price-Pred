@@ -1,9 +1,5 @@
 CRYPTOCURRENCY PRICE PREDICTION
 https://github.com/samuzaffar99/Crypto-Price-Pred
-Project by -
-18K0169 Syed Abdullah Muzaffar
-18K1103 Muhammad Ahmed Khan
-18K0357 Ali Azlan Aziz
 
 The following files/folders are present:
 -Crypto_ProjectReport.docx --The project report
